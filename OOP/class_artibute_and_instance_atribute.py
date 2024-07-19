@@ -26,3 +26,5 @@ print(Humans.legs)# This will show the value 2
 """
 h.gender = "Female"
 print(h.gender)
+h.name = "Sara"
+print(h.name)
